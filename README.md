@@ -16,5 +16,5 @@ $4 = Maximum age of accounts in number of days
 
 ## Background
 
-This script is designed to be used in the context of shared computer environments where files do not get stored locally and users do not use the same computer every time.  It aims to solve the problem of users logging back in on a computer after a long time and not remembering their previous password.
+This script is designed to be used in the context of shared computer environments where users do not use the same computer every time.  It aims to solve the problem of users logging back in on a computer after a long time and not remembering their previous password.
 
